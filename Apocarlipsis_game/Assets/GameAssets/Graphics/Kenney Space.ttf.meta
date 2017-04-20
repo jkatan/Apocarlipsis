@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4c1596add25fcd94a8294430c03980cd
+timeCreated: 1485033505
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kenney Space
+  fontNames:
+  - Kenney Space
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
