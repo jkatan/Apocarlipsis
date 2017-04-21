@@ -7,7 +7,6 @@ The tricky mechanics that make this game more interesting are the following:
 * You can activate a special shield that will protect you from incoming bullets making them bounce in the opposite direction. This shield only lasts one second, so use it wisely. To use it again you will have to wait 3 seconds.
 
 To play the game two Xbox 360 controllers are needed. Each player can move with the left stick and aim with the right stick, and use the shield with the LB button.
-Apocarlipsis/Apocarlipsis_game/Main_Menu.png
 
 ![alt tag](https://github.com/jkatan/Apocarlipsis/blob/master/Apocarlipsis_game/Main_Menu.png)
 ![alt tag](https://github.com/jkatan/Apocarlipsis/blob/master/Apocarlipsis_game/Round_Start.png)
